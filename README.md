@@ -2,7 +2,8 @@
 
 <h3>I'm an Fullstack Developer</h3>
 
-- 👋 Hi, I’m Onur, a fullstack developer student at Chas Academy in Stockholm, Sweden.
+- 👋 Hi, I’m Onur, a fullstack developer student at Chas Academy.
+- 📍 Stockholm, Sweden 🇸🇪
 - 👀 I am interested in web development, training and travels.
 - 🌱 I’m currently learning HTML, CSS, JS, PHP with frameworks Bootstrap, Tailwind, Sass, Laravel, Angular, React.
 - 📫 How to reach me > onur.kayhan@chasacademy.se
